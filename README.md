@@ -10,7 +10,7 @@
 [![Gemini](https://img.shields.io/badge/Gemini-2.0_Flash-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
-[Live Demo](#) • [Report Bug](https://github.com/himanshichouhan25/study-buddy-agent/issues) • [LinkedIn](https://www.linkedin.com/in/himanshi-chouhan-69180a339/)
+ • [Report Bug](https://github.com/himanshichouhan25/study-buddy-agent/issues) • [LinkedIn](https://www.linkedin.com/in/himanshi-chouhan-69180a339/)
 
 </div>
 
